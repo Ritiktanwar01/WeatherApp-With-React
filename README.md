@@ -1,6 +1,11 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a weather app created by ritik tanwar with react native expo we have used several libs like
+
+# Heroicons
+# Native Wind
+# Axios
+# Redux
 
 ## Get started
 
